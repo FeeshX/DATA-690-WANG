@@ -38,4 +38,4 @@ The local data is grouped by metropolitan area and by county. Overall I expect t
 
 **Techniques**
 - Summary statistics
-- Time series charts
+- Data visualization - Time series charts, Scatter plots
