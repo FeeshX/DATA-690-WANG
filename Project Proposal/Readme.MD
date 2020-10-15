@@ -15,6 +15,8 @@ role in any changes in the housing market for March-2020 onwards.
 
 
 **Questions**
+
+In this project, I will attempt to answer the following questions:
 - How has Covid-19 affected U.S Housing Sales?
 - How has Covid-19 affected U.S Housing Prices?
 - How has Covid-19 affected the inventory of houses available on the market?
