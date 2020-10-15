@@ -20,7 +20,7 @@ role in any changes in the housing market for March-2020 onwards.
 - How has Covid-19 affected the inventory of houses available on the market?
 - From the period March - present, how have changes in the areas of sales, pricing and inventory changed?
 
-**Importance of Issue**
+**Source of Data**
 
 I plan to obtain the data from Redfin, a national real estate brokerage, which periodically issues data on the U.S Housing market. All data here is computed daily as either
 a rolling 1, 4 or 12-week window. The data will be available for download here: https://www.redfin.com/news/data-center/
