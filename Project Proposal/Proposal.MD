@@ -1,4 +1,4 @@
-## **Project Proposal**
+## **Project Proposal - The Housing Market During the COVID-19 Pandemic**
 
 ![Image of Homes](https://github.com/mishaisran/DATA-690-WANG/blob/master/Project%20Proposal/Images/photo-1524813686514-a57563d77965.jpg)
 
