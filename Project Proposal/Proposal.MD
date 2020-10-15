@@ -1,8 +1,11 @@
 ## **Project Proposal**
 
+![Image of Homes](https://github.com/mishaisran/DATA-690-WANG/blob/master/Project%20Proposal/Images/photo-1524813686514-a57563d77965.jpg)
+
 **Issue of Interest**
 
-My issue of interest for this project pertains to doing an exploratory analysis at real estate data to see the affect of the Covid-19 pandemic on the U.S Housing market. 
+My issue of interest for this project pertains to doing an exploratory analysis on real estate data to assess the affect of the Covid-19 pandemic on the U.S Housing market. 
+I wanted to understand how the coronavirus outbreak has changed the basic mechanics of buying and selling homes on both the demand and supply side.
 
 **Importance of Issue**
 
