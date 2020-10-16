@@ -33,10 +33,12 @@ The local data is grouped by metropolitan area and by county. Overall I expect t
 
 **Variables and measures for analysis**
 
-- U.S Total Housing Sales
-- U.S Median List Price
-- Inventory of homes
-- Homes Delisted
+| **Metric**          | **Description**                                                    | 
+| :---                          | :---              | 
+| U.S Total Housing Sales   | *Total number of homes with a sale date during a given time period.*        | 
+| U.S Median List Price     | *The most recent listing price covering all homes with a listing date during a given time period where 50% of the active listings were above this price and 50% were below this price.*          |
+| Inventory of homes     | *Total number of active listings on the last day a given time period.*          | 
+| Homes Delisted     | *The total number of homes that were pulled off the market during a given time period.*          | 
 
 **Techniques**
 - Summary statistics
