@@ -12,3 +12,9 @@ The data files and notebooks used in the video are hosted in GitHub: https://git
 * Each type of observational unit forms a table.
 
 2. Tidy data allows us to reduce the amount of time and effort needed for data cleaning.
+
+3. Common issues with untidy data are:
+* Some column headers are values, not variable names
+* Multiple variables are stored in one column
+* Variables are stored in both rows and columns
+* Multiple types of observational units are stored in the same table
