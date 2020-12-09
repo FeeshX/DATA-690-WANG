@@ -18,3 +18,5 @@ The data files and notebooks used in the video are hosted in GitHub: https://git
 * Multiple variables are stored in one column
 * Variables are stored in both rows and columns
 * Multiple types of observational units are stored in the same table
+
+4. Pandas melt unpivots a DataFrame from wide format to long format.
